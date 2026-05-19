@@ -59,7 +59,6 @@ Não busco apenas construir interfaces, busco construir sensações.
   <a href="https://discord.com/users/1320881104361885771" target="_blank">
     <img src="https://img.shields.io/badge/Discord-312E81?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-  <a href="https://github.com/jlongyue"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> </a>
 </div>
 
 
