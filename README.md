@@ -25,10 +25,10 @@ Ainda estou no início da minha cultivação no mundo do código. Entre linhas d
 
 - Front-End Development
 - React & Next.js
+- Tailwind CSS
 - JavaScript
 - TypeScript
 - UI/UX Design
-- Tailwind CSS
 - Design Responsivo
 - Java
 - Consumo e criação de APIs RESTful com Spring Boot
