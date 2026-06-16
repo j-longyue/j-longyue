@@ -21,7 +21,7 @@ Ainda estou no início da minha cultivação no mundo do código. Entre linhas d
 - 💻 **Em formação Full Stack** – com interesse especial pelo Front
 - 📜 **Certificada** pelo Serratec e Firjan Senai como Desenvolvedora Full Stack
 
-## ⚔️ Tecnologias que cultivo
+## ⚔️ Tecnologias de cultivo
 
 - Front-End Development
 - React & Next.js
@@ -65,7 +65,7 @@ Não busco apenas construir interfaces, busco construir sensações.
 ## 🌙 GitHub stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=larypeixoto&theme=tokyonight" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=j-longyue&theme=tokyonight" />
 </div>
 
 > “Interfaces não são telas. São atmosferas.”
